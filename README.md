@@ -27,3 +27,12 @@ This demonstration goes over how to launch an E2 instance running Amazon Linux.
 - Input user data
 - Launch instance
  
+<h2>Step Process</h2>
+
+<h3>&#9312; Launch EC2 Insatnce</h3>
+
+<h2>
+
+<img width="776" alt="Screenshot 2023-07-17 at 9 26 57 PM" src="https://github.com/Johnremilekun/Ec2-instance-with-user-data/assets/30168186/41e165a1-39f4-4f26-9656-4b2b114d074f">
+
+
