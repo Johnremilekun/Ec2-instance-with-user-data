@@ -3,7 +3,7 @@
 
 </p>
 
-<h1>Create an EC2 Instance with EC2 User Data</h1>
+<h1>Create an EC2 instance and configure it with EC2 User Data - to deploy a website</h1>
 
 This demonstration goes over how to launch an E2 instance running Amazon Linux.
 
