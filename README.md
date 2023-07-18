@@ -55,7 +55,7 @@ This demonstration goes over how to launch an E2 instance running Amazon Linux.
 
 <h3>&#9315; Input user data</h3>
 
-- copy user data from this link
+- copy user data from this link - https://github.com/Johnremilekun/Ec2-instance-with-user-data/blob/main/user%20data
   
 <hr>
 
