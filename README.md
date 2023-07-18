@@ -5,29 +5,25 @@
 
 <h1>Create an EC2 Instance with EC2 User Data</h1>
 
-This demonstration goes over how to observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups.
+This demonstration goes over how to launch an E2 instance running Amazon Linux.
 
-_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Configuring On-premises Active Directory within Azure VMs"](https://github.com/JTYKolesar/configure-ad)._
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Amazon web services
+- Network Protocols (SSH, HTTP)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Linux
 
 <h2>High-Level Steps</h2>
 
-- Setup 2 Virtual Machines within Azure:
-  - Virtual Machine #1 (Windows 10)
-  - Virtual Machine #2 (Linux Ubuntu) -- using same Resource Group and Vnet as VM1
-- Use Remote Desktop (RDP) to VM1 and install Wireshark.
-- Use Wireshark and PowerShell to Observe Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-  - Add new Inbound Rules to Deny/Allow ICMP protocol.
-- Bonus: How to Display and Flush DNS.
+- Launch an EC2 instance
+- Select the machine image
+- select an instance type
+- Create Key Pair
+- Set network settings
+- Input user data
+- Launch instance
+ 
