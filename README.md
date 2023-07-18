@@ -56,6 +56,7 @@ This demonstration goes over how to launch an E2 instance running Amazon Linux.
 <h3>&#9315; Input user data</h3>
 
 - copy user data from this link - https://github.com/Johnremilekun/Ec2-instance-with-user-data/blob/main/user%20data
+- Launch Instance
   
 <hr>
 
@@ -63,7 +64,19 @@ This demonstration goes over how to launch an E2 instance running Amazon Linux.
 
 <hr>
 
+<h3>&#9315; View Instance</h3>
 
+- copy the public IP address or click on open address to view the hello world website made with user data
+- or paste the public IP address into your browser
+- if it doesn't work, ensure you have HTTP, not HTTPS
+
+<hr>
+
+<img width="777" alt="Screenshot 2023-07-17 at 9 30 47 PM" src="https://github.com/Johnremilekun/Ec2-instance-with-user-data/assets/30168186/f18e2a04-8c78-4484-9d92-623f80ff0603">
+
+<img width="827" alt="Screenshot 2023-07-17 at 9 30 57 PM" src="https://github.com/Johnremilekun/Ec2-instance-with-user-data/assets/30168186/f10dc15f-d9c0-42b3-865b-c46759b7903a">
+
+<hr>
 
 
 
